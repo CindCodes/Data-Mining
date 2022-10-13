@@ -1,0 +1,1 @@
+# Edit Distance is a string metric to quantifiably measure the dissimilarity of two strings by counting the minimum number of operations required to transform one string into the other. Also known as Levenshtein distance, the following program takes in two input strings and returns the number of operations to transform string1 to string 2
